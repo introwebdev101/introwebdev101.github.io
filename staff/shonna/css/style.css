@@ -18,7 +18,7 @@ div, img {
 }
 
 div {
-  animation: recolor 5s infinite;
+  animation: recolor 5s infinite alternate;
 }
 
 
