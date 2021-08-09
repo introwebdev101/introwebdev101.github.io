@@ -4,11 +4,11 @@ $(document).ready(function() {
   });
   
   $('p').click(function(){
-    $('p').css({'background':'blue'});
+    $('p').css({'background','blue'});
   });
   
   $('#change-text').click(function(){
-    $('#change-text').css({'color':'green'});
+    $('#change-text').css({'color','green'});
   });
   
   $('#hide').click(function(){
