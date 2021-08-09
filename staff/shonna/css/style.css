@@ -1,3 +1,13 @@
-p{
-  color: green;
+div, img {
+  height: 12em;
+  width: 12em; 
+  display: inline-block;
+  margin: 1em;
 }
+
+div {animate: recolor 5s infinite;}
+@keyframes recolor {to{background: green;}}
+
+#red {background: red;}
+#green {background: green;}
+  
