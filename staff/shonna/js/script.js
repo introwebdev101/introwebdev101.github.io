@@ -15,8 +15,8 @@ $(document).ready(function() {
   $("#hide").click(function(){
     $("img").toggle();
   });
-/*  
+  
   $("div").click(function(){
     $(this).hide();
-  });*/
+  });
 });
