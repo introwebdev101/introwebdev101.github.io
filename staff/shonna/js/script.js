@@ -8,10 +8,10 @@ $(document).ready(function() {
      alert("A paragraph was clicked.");
   });
   
-  $("#change-text").click(function(){
+  /*  $("#change-text").click(function(){
     $("p").css({"color","green"});
   });
-  /*
+
   $("#hide").click(function(){
     $("img").hide();
   });
