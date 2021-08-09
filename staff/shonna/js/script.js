@@ -11,11 +11,11 @@ $(document).ready(function() {
   $("#change").click(function(){
     $("p").css({"color":"green"});
   });
-/*
+
   $("#hide").click(function(){
     $("img").hide();
   });
-  
+/*  
   $("div").click(function(){
     $(this).hide();
   });*/
