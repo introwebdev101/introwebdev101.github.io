@@ -7,11 +7,11 @@ $(document).ready(function() {
     $('p').css({'background':'blue'});
   });
   
-  $('change-text').click(function(){
-    $('change-text').css({'color':'green'});
+  $('#change-text').click(function(){
+    $('#change-text').css({'color':'green'});
   });
   
-  $('hide').click(function(){
+  $('#hide').click(function(){
     $('img').hide();
   });
   
