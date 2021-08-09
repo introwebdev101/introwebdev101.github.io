@@ -8,7 +8,7 @@ $(document).ready(function() {
      alert("A paragraph was clicked.");
   });
   
-  $("#change-text").click(function(){
+  $("#change").click(function(){
     $("p").css({"color":"green"});
   });
 /*
