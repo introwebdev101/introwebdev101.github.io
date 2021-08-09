@@ -4,14 +4,14 @@ $(document).ready(function() {
     $('div').css({'border-radius':'10em'});
   });
   
-  $("p").click(function(){
+  $('p').click(function(){
      alert("A paragraph was clicked.");
   });
   
-  /*$("#change-text").click(function(){
-    $("#change-text").css({"color","green"});
+  $("#change-text").click(function(){
+    $("p").css({"color","green"});
   });
-  
+  /*
   $("#hide").click(function(){
     $("img").hide();
   });
