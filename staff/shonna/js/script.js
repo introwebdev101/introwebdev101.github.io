@@ -4,7 +4,15 @@ $(document).ready(function() {
   });
   
   $('p').click(function(){
-    $('#custom').css({'background':'blue'});
+    $('p').css({'background':'blue'});
+  });
+  
+  $('change-text').click(function(){
+    $('change-text').css({'color':'green'});
+  });
+  
+  $('hide').click(function(){
+    $('img').hide();
   });
   
   $('div').click(function(){
