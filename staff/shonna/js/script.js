@@ -13,7 +13,7 @@ $(document).ready(function() {
   });
 
   $("#hide").click(function(){
-    $("img").hide();
+    $("img").toggle();
   });
 /*  
   $("div").click(function(){
