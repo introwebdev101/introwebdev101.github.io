@@ -2,7 +2,6 @@ body {
     background-image: url('https://decider.com/wp-content/uploads/2019/07/robert-redford-in-jeremiah-johnson.jpg');
     background-size: fixed;
     background-size: cover;
-    animation: recolor 5s infinite alternate;
 }
 div, img {
   height: 12em;
@@ -18,9 +17,6 @@ div, img {
 }
 @keyframes recolor {
   to {background: blue;}
-}
-div {
-  animation: recolor 5s infinite alternate;
 }
 p {
    font-family: "Raleway";
