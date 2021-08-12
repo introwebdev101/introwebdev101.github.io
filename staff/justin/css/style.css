@@ -1,7 +1,7 @@
 body {
     background-image: url('https://decider.com/wp-content/uploads/2019/07/robert-redford-in-jeremiah-johnson.jpg');
     background-repeat: no-repeat;
-    background-size: fixed;
+    background-size: cover;
     animation: recolor 5s infinite alternate;
 }
 div, img {
