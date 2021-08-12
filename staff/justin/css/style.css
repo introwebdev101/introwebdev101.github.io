@@ -20,7 +20,7 @@ div, img {
   to {background: blue;}
 }
 div {
-  animation: recolor 5s infinite alternate;
+  animation: recolor 2s infinite alternate;
 }
 p {
    font-family: "Raleway";
