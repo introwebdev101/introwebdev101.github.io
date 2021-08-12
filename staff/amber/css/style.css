@@ -18,3 +18,6 @@ div, img {
 }
 div {animation: recolor 5s infinite alternate;
 }
+p {
+  font-family: "Raleway";
+}
