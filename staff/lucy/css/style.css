@@ -3,12 +3,11 @@ body {
 }  
 
 div, img {
-  height: 12em;
-  width: 12em;
+  height: 50em;
+  width: 90em;
   display: inline-block;
   margin: 1em;
 }
-
 
 
 #pink {
