@@ -2,6 +2,7 @@ body {
   background-image: url('https://images.pexels.com/photos/3006007/pexels-photo-3006007.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
 }
     
 div, img {
