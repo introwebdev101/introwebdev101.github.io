@@ -1,3 +1,7 @@
+body {
+  background-image: url('https://images.pexels.com/photos/3551227/pexels-photo-3551227.jpeg');
+}
+
 div, img {
   height: 12em;
   width: 12em;
