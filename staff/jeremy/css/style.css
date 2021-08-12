@@ -25,7 +25,7 @@ div, img {
     to{background: yellow;}
   }
   div {
-    anitation: recolor 5s infinite alternate;
+    animation: recolor 5s infinite alternate;
   }
   
   p {
