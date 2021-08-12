@@ -15,16 +15,16 @@ div, img {
   background: blue;
 }
 
-#green {
-  background: green;
+#white {
+  background: ff4dc4;
   }
   
-  #white {
-    background: #ff4dc4;
+  #green {
+    background: green;
   }
   
   @keyframes recolor {
-    to{background: yellow;}
+    to {background: yellow;}
   }
   div {
     animation: recolor 5s infinite alternate;
