@@ -6,7 +6,6 @@ body{
 }
 
 div, img{
-clip-path: circle(75%);
 display: inline-block;
 margin: 1em;
 }
@@ -16,7 +15,6 @@ margin: 1em;
 #tulips{background: #ff1aff;}
 
 @keyframes recolor{
-  from {top: 0px;}
   to {background: blue; }
 }
   
