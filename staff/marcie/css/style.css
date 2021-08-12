@@ -11,7 +11,9 @@ div, img {
   display: inline-block;
   margin: 1em;
 }
-
+img {
+  border-radius: 12em;
+}
 #green {
   background: #00ffcc;
 }
