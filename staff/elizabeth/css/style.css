@@ -2,7 +2,7 @@ body{
   background-image: url("https://images.pexels.com/photos/4652060/pexels-photo-4652060.jpeg");
   background-repeat: no-repeat;
   background-position: fixed;
-  
+  background-size: auto;
 }
 
 div, img{
