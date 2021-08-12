@@ -18,9 +18,8 @@ margin: 1em;
 
 @keyframes recolor{
   from {top: 0px;}
-  to {background: blue; 
-    top: 200px; 
-    clip-path: circle(25% at 25% 25%);}
+  to {background: blue; }
+}
   
  
 }
