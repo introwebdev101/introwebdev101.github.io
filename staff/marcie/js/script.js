@@ -1,5 +1,5 @@
 $(document).ready(function() {
   $("#change").click(function(){
-    $("p").css({"color":"green"});
+    $("p").css({"color":"#20B2AA"});
   });
 });
