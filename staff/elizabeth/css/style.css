@@ -9,7 +9,6 @@ div, img{
 clip-path: circle(75%);
 display: inline-block;
 margin: 1em;
-  position: relative;
 }
 
 #purple{background: purple;}
