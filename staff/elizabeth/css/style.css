@@ -17,7 +17,10 @@ margin: 1em;
 #tulips{background: #ff1aff;}
 
 @keyframes recolor{
-  to{background: blue;}
+  from {top: 0px;}
+  to {background: blue; top: 200px;}
+  
+ 
 }
 div{
   animation: recolor 5s infinite alternate;
