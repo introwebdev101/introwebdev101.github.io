@@ -18,6 +18,9 @@ div, img {
 @keyframes recolor {
   to {background: blue;}
 }
+div {
+    animation: recolor 5s infinite alternate;
+}
 p {
    font-family: "Raleway";
    font-style: italic;
@@ -25,7 +28,6 @@ p {
 :root {
   --brand-color: hsl(358, 100%, 68%);
 }
-
 * {
   box-sizing: border-box
 }
