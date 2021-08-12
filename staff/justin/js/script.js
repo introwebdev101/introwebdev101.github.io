@@ -1,22 +1,21 @@
 $(document).ready(function() {
-$("#change").click(function(){
-  $("p").css({"color":"green"});
-             });
-  
   $("#rounded").click(function(){
     $("div").css({"border-radius":10em"});
     });
     
  $("p").click(function(){
       alert("Uh oh.");
-   });
-    
-    $('div').click(function(){
-      $(this).hide();
-    });
+   });    
+     
+$("#change").click(function(){
+  $("p").css({"color":"green"});
+             });
     
     $("#hide").click(function(){
       $("img").toggle();
     });
     
+     $('div').click(function(){
+      $(this).hide();
+    });
 });
