@@ -23,11 +23,11 @@ div, img {
 }
 
 @keyframes recolor {
-  to {background: yellow;}
+  to {background: #99ddff;}
 }
 
 div {
-  animation: recolor 2s infinite alternate;
+  animation: recolor 3s infinite alternate;
 }
 
 p {
