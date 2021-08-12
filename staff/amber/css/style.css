@@ -19,11 +19,16 @@ div, img {
 #zinnias {
   background: #cc00cc;
 }
+#photo {
+  height: 15em;
+  width: 20em;
+}
 @keyframes recolor {
   to {background: blue;}
 }
 div {animation: recolor 5s infinite alternate;
 }
+ 
 p {
   font-family: "Homemade Apple";
 }
