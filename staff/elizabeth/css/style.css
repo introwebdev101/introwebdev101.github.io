@@ -6,8 +6,7 @@ body{
 }
 
 div, img{
-height: 12em;
-width: 12em;
+clip-path: circle(75%);
 display: inline-block;
 margin: 1em;
   position: relative;
@@ -19,7 +18,9 @@ margin: 1em;
 
 @keyframes recolor{
   from {top: 0px;}
-  to {background: blue; top: 200px; clip-path: circle(25% at 25% 25%);}
+  to {background: blue; 
+    top: 200px; 
+    clip-path: circle(25% at 25% 25%);}
   
  
 }
