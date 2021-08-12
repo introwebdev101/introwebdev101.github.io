@@ -1,5 +1,8 @@
 body {
   background-image: url("https://images.pexels.com/photos/3061171/pexels-photo-3061171.jpeg")
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }  
 
 div, img {
@@ -8,7 +11,6 @@ div, img {
   display: inline-block;
   margin: 1em;
 }
-
 
 #pink {
   background: pink;
