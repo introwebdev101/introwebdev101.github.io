@@ -8,7 +8,7 @@ $("#change").click(function(){
 $("p"). click(function(){
   alert("A paragraph was clicked.");
 });
-$('div').click(function(){
+$("div").click(function(){
   $(this).hide();
 });
 $("#hide").click(function(){
