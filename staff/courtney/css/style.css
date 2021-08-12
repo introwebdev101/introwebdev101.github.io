@@ -1,1 +1,31 @@
+div, img {
+  height: 12em;
+  width: 12em;
+  display: inline-block;
+  margin: 1em;
+}
 
+#pink {
+  background: pink;
+}
+
+#blue {
+  background: #66a3ff 
+}
+
+#butterfly {
+  background: #b3d1ff
+}
+
+
+@keyframes recolor {
+  to{background: orange;}
+}
+
+div {
+  animation: recolor 5s infinite alternate;
+}
+
+p {
+  font-family: "Raleway";
+}
