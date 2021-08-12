@@ -3,7 +3,7 @@ $("#rounded").click(function(){
   $("div").css({"border-radius":"10em"});
 });
   $("p").click(fuction(){
-               alert("A paragraph was click.");
+               alert("A paragraph was clicked.");
 });
 
 $("#change").click(function(){
