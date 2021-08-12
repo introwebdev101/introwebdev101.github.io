@@ -6,7 +6,21 @@ div, img {
 }
 
 #blue {
-  background blue;
+  background: blue;
 }
 #green {
   background: green;
+  #white {
+    background: #ff4dc4;
+  }
+  
+  @keyframes recolor {
+    to{background: yellow;}
+  }
+  div {
+    anitation: recolor 5s infinite alternate;
+  }
+  
+  p {
+    font-family: "Raleway";
+  }
