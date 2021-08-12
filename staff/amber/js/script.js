@@ -8,5 +8,10 @@ $(document).ready(function() {
  $("p").click(function(){
   alert("A paragraph was clicked.");
  });
- 
+ $("div").click(function(){
+  $(this).hide();
+ });
+ $("#hide").click(function(){
+  $("img").toggle();
+ });
 });
