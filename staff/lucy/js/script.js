@@ -4,7 +4,11 @@ $("#change").click(function(){
     });
   
 $("#rounded").click(function(){
-  $("div").css9{"border-radius":"10em});
+  $("div").css({"border-radius":"10em});
                });
+  
+  $("p").click(function(){
+    alert("Lumos!");
+  });
   
 });
