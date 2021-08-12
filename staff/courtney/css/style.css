@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  font-family: "Homeade Apple": 
+  font-family: 'Homeade Apple': 
 }
 
 div, img {
@@ -18,11 +18,11 @@ div, img {
 }
 
 #blue {
-  background: #66a3ff 
+  background: #b3b3ff 
 }
 
 #butterfly {
-  background: #b3d1ff
+  background: #ff80ff
 }
 
 
