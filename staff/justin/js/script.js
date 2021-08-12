@@ -11,4 +11,7 @@ $("#change").click(function(){
     $('div').click(function(){
       $(this).hide();
     });
+    $("#hide").click(function(){
+      $("img").toggle();
+    });
 });
