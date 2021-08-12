@@ -21,3 +21,8 @@ div {animation: recolor 5s infinite alternate;
 p {
   font-family: "Raleway";
 }
+body {
+  background-image: url("https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg");
+  background-attachment: fixed;
+  background-repeate: no-repeat;
+}
