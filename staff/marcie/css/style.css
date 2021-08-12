@@ -1,7 +1,7 @@
 body {
   background-image: url('https://images.pexels.com/photos/4104006/pexels-photo-4104006.jpeg');
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
 }
 
 
