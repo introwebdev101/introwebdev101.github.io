@@ -3,7 +3,7 @@ $(document).ready(function() {
     $("p").css({"color":"green"});
   });
   
-  $("rounded").click(function(){
+  $("#rounded").click(function(){
     $("div").css({"border-radius":"10em"});
   });
   
