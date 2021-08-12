@@ -13,6 +13,10 @@ div, img {
   margin: 1em;
 }
 
+div {
+  text-align: center;
+}
+
 #purple {
   background: purple;
 }
