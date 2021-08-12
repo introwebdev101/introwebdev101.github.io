@@ -8,7 +8,7 @@ div, img {
 }
 
 #blue {
-  background: red;
+  background: blue;
 }
 
 #white {
@@ -20,7 +20,7 @@ div, img {
   }
   
   @keyframes recolor {
-    to {background: yellow;}
+    to {background: red;}
   }
   div {
     animation: recolor 5s infinite alternate;
