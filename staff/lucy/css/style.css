@@ -1,9 +1,15 @@
+body {
+  background-image: url("https://images.pexels.com/photos/3061171/pexels-photo-3061171.jpeg")
+}  
+
 div, img {
   height: 12em;
   width: 12em;
   display: inline-block;
   margin: 1em;
 }
+
+
 
 #pink {
   background: pink;
