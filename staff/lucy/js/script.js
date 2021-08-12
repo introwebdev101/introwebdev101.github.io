@@ -11,4 +11,12 @@ $("#rounded").click(function(){
     alert("Lumos!");
   });
   
+  $('div').click(function(){
+    $(this).hide();
+  });
+  
+  $("#hide").click(function(){
+    $("img").toggle();
+  });
+  
 });
