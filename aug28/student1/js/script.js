@@ -19,4 +19,8 @@ $("#change").click(function(){
     $("img").toggle();
   });
 
+  $("#toggle").click(function(){
+  $("div").toggle();
+  });
+  
 });
