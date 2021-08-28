@@ -18,3 +18,7 @@ div,img {
  {
    animation:recolor 5s infinite alternate;
 }
+
+body {
+  background: URL('https://images.pexels.com/photos/1254736/pexels-photo-1254736.jpeg');
+}
