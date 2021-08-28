@@ -10,5 +10,13 @@ $("p").click(function(){
 $("#change").click(function(){
   $("p").css({"color":"pink"});
 });
+
+  $('div').click(function(){
+    $(this).hide();
+  });
   
+  $(#hide").click(function(){
+    $("img").toggle();
+});
+
 });
