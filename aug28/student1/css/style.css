@@ -21,4 +21,9 @@ div,img {
 
 body {
   background: URL('https://images.pexels.com/photos/1254736/pexels-photo-1254736.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Homemade Apple";
+  
 }
