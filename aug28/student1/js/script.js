@@ -15,8 +15,8 @@ $("#change").click(function(){
     $(this).hide();
   });
   
-  $(#hide").click(function(){
+  $("#hide").click(function(){
     $("img").toggle();
-});
+  });
 
 });
