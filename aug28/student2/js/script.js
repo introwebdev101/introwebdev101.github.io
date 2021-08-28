@@ -11,6 +11,15 @@ $("#change").click(function(){
   $("p").css({"color":"white"});
 }); 
     
-    
+$("div").click(function(){
+  $(this).hide(); 
+});
+  
+  $("#hide").click(function(){
+    $("img").toggle();
+});
+  
+  
+  
     
 });
