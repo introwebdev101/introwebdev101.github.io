@@ -11,6 +11,6 @@ alert("A paragpraph was clicked.");
  $('div').click(function(){
     $(this).hide();
  });
- $("#hide").click(function()}
+ $("#hide").click(function(){
     $("img").toggle();
 });
