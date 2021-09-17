@@ -1,1 +1,3 @@
-comtemt
+$(document).ready(function() {
+
+});
