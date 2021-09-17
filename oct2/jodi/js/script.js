@@ -15,7 +15,7 @@ $("#rounded").click(function(){
     $(this).hide();
   });
   
-  $("hide"0.click(function(){
+  $("hide").click(function(){
     $("img").toggle();
   });
   
