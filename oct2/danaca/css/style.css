@@ -1,1 +1,20 @@
+div, img {
+    height: 20em;
+    width: 30em;
+    display: inline-block;
+    margin: 5em;
+}
 
+#4d004d {
+    background: #4d004d;
+}
+#ff0066 {
+    background: #ff0066;
+}
+
+@keyframes recolor { to
+  {background: #009999;}
+} div
+{
+  animation: recolor 8s infinite alternate;
+}
