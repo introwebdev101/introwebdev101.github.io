@@ -19,7 +19,7 @@ $("#hide").click(function(){
   $("img").toggle();
 });
 
-  $("#refresh).click(function(){
+  $("#refresh").click(function(){
     $("div").toggle();
 });
 });
