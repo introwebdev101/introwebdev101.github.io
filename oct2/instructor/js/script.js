@@ -19,4 +19,9 @@ $("#rounded").click(function(){
     $("img").toggle();
   });
   
+  $("#refresh").click(function(){
+    $("div").toggle();
+});
+                  
+  
 });
