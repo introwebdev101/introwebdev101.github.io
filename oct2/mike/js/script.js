@@ -6,7 +6,7 @@ $(document).ready(function() {
 alert("A paragpraph was clicked.");
 });
  $("#change").click(function();{
-    $("p").css({"color":"green"});
+    $("p").css({"color":"#ccff33"});
 });
  $('div').click(function(){
     $(this).hide();
