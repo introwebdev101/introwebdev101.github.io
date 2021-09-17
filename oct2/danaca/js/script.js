@@ -21,5 +21,5 @@ $("#hide").click(function(){
 
   $("#refresh).click(function(){
     $("div").toggle();
-  
+});
 });
