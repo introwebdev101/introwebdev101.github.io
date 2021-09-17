@@ -5,6 +5,12 @@ body {
     background-size: cover;
    }
 
+#refresh {
+    background: black;
+    color: white;
+    border-radius: 2px;
+}
+
 div, img {
     height: 10em;
     width: 15em;
