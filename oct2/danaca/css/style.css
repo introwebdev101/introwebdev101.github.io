@@ -1,3 +1,10 @@
+body {
+    background:url(https://images.pexels.com/photos/5681802/pexels-photo-5681802.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 div, img {
     height: 10em;
     width: 15em;
