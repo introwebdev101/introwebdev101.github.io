@@ -10,15 +10,15 @@ div, img {
 #Blue {
     background: blue;
 }
-@keyframes recolor { to
+@keyframes recolor1 { to
   {background: blue;}
 } #Green
 { 
-  animation: recolor 5s infinite alternate;
+  animation: recolor1 5s infinite alternate;
 }
-@keyframes recolor { to
+@keyframes recolor2 { to
   {background: red;}
 } #Blue
 { 
-  animation: recolor 5s infinite alternate;
+  animation: recolor2 5s infinite alternate;
 }
