@@ -14,4 +14,7 @@ $("p").click(function(){
                                $('div').click(function(){
                                 $(this).hide();
                                });
+                                $('#toggle').click(function(){
+                                $("div").toggle();
+                               });
 });
