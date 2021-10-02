@@ -6,7 +6,7 @@ $("#rounded").click(function(){
     alert("A paragraph was clicked.");
   });
   $("#change").click(function(){
-    $("p").css({"color":"green"});
+    $("p").css({"color":"blue"});
   });
   $("#hide").click(function(){
     $("img").toggle():
