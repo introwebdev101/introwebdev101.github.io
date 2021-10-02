@@ -2,11 +2,11 @@ $(document).ready(function() {
 $("#rounded").click(funtion(){
   $("div").css({"border-radius":"10em"});
 });
-$("p).click(function(){
+$("p").click(function(){
   alert("A paragraph was clicked.");
 });
 
-$("#change").click(funtion(){
+$("#change").click(function(){
  $("p").css({"color":"green"});
 });
 
