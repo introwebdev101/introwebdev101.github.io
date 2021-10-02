@@ -1,5 +1,6 @@
-$(document).ready(function() {
-$("#rounded").click(function(){
+$(document).ready(function(){
+
+  $("#rounded").click(function(){
   $("div").css({"border-radius":"10em"});
 });
   
@@ -14,7 +15,9 @@ $("#rounded").click(function(){
   $("div").click(function(){
     $(this).hide();
   });
+  
   $("#hide").click(function(){
     $("img").toggle():
   });
+  
  });
