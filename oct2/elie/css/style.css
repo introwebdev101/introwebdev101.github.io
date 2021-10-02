@@ -14,6 +14,6 @@ div, img{
   {background:blue;}
 }div
 {
-animation:recolor5s infinite alternate;
+animation:recolor 5s infinite alternate;
 }
 
