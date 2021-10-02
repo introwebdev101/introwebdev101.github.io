@@ -17,5 +17,5 @@ div, img {
   {background: gold;}
 } div 
 {
-  animation: recolor 5s infinite alternative;
+  animation: recolor 5s infinite alternate;
 }
