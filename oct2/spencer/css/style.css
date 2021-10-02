@@ -8,7 +8,7 @@ div, img {
   Background: green;
 }
 #Blue {
-    background: Blue;
+    background: blue;
 }
 @keyframes recolor { to
   {background: blue;}
