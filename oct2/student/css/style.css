@@ -5,15 +5,15 @@ div, img {
   margin: 1em;
 }
 
-#gold {
-  background: gold; 
+#green {
+  background: green; 
 }
-#green { 
-  background: green;
+#gray { 
+  background: gray;
 }
 
 @keyframes recolor {to
-  {bacground: gray;}
+  {bacground: gold;}
 } div
 {
   animation: recolor 5s infinate alternative;
