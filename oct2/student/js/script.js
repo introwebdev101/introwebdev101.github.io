@@ -11,7 +11,7 @@ $("p").click(function(){
   $("p").css({"color":"gray"});
   });
   
-  $(#hide").click(function(){
+  $("#hide").click(function(){
     $("img").toggle();
 });
     
