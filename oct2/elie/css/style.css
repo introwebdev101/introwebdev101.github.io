@@ -13,7 +13,7 @@ div, img{
 @keyframes recolor{to
   {background:blue;}
 }div
-}
+{
 animation:recolor5s infinite alternate;
 }
 
