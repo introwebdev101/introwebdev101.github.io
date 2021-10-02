@@ -20,6 +20,13 @@ div {
   animation: recolor 5s infinite alternate;
   
 }
+
+body {
+  background-image: url('https://images.pexels.com/photos/3374210/pexels-photo-3374210.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
   
 body {
     Color: white;
