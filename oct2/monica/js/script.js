@@ -10,7 +10,7 @@ $("#change").click(funtion(){
  $("p").css({"color":"green"});
 });
 
-$('div').click(function(){
+$("div").click(function(){
   $(this).hide();
 });
 
