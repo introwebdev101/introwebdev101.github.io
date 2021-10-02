@@ -11,6 +11,10 @@ $("#rounded").click(function(){
     $("p").css({"color":"green"});
   });
   
+  $("div").click(function(){
+    $(this).hide();
+  });
+  
   $("#hide").click(function(){
     $("img").toggle();
   });
