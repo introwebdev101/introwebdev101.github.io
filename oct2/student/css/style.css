@@ -13,7 +13,7 @@ div, img {
 }
 
 @keyframes recolor {to
-  {bacground: gold;}
+  {background: gold;}
 } div
 {
   animation: recolor 5s infinate alternative;
