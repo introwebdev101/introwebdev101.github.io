@@ -16,3 +16,6 @@ div, img {
 {
   animation: recolor 5s infinite alternate;
 }
+background {
+  color: yellow;
+}
