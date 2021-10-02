@@ -7,12 +7,16 @@ $("p").click(function(){
   alert("A paragraph was clicked");
 }); 
   
-  $("#change").click.function(){
-    $("p").css({"color:"gray"});
-                
+  $("#change").click(function(){
+  $("p").css({"color":"gray"});
+  });
+  
+  $(#hide").click(functhion(){
+    $("img").toggle();
 });
     
-$('div').click(function(){
-  $(img").toggle();
+$("div").click(function(){
+  $(this).hide();
+});
     
-    });     
+});     
