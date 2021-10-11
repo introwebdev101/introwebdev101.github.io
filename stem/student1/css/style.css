@@ -4,12 +4,15 @@ div, img {
   display: inline-block;
   margin: 1em;
 }
+
 #pink {
   background: white;
 }
+
 #magenta {
   background: white;
 }
+
 @keyframes recolor { to
   {background: blue;}
 } div
