@@ -17,6 +17,6 @@ div, img {
   {background: blue;}
 } div
 {
-  animation: recolor 5s infinite alternate;
+  animation: recolor 0.3s infinite alternate;
 }
 
