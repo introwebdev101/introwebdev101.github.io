@@ -8,7 +8,7 @@ $(document).ready(function() {
   });
 
   $("#change").click(function() {
-          $("p").css({"color":"lilac"})
+          $("p").css({"color":"purple"})
   });
 
   $("div").click(function(){
