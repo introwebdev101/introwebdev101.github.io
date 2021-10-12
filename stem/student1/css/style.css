@@ -6,10 +6,18 @@ div, img {
 }
 
 #pink {
-  background: white;
+  background: pink;
 }
 
 #magenta {
-  background: white;
+  background: magenta;
 }
+
+@keyframes recolor { to
+  {background: gray;}
+} div
+{
+  animation: recolor 5s infinite alternate;
+}
+
 
