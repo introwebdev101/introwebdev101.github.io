@@ -16,7 +16,7 @@ $(document).ready(function() {
   });
 
   $("#hide").click(function(){
-          $("img".toggle();
+          $("img").toggle();
   });
 
 });
