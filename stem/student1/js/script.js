@@ -1,11 +1,11 @@
 $(document).ready(function() {
   $rounded("#rounded).click(function(){
           $("div).css({"border-radius":"10em"});
-});
+   });
 
   $("p").click(function(){
           alert("A paragraph was clicked.");
-});
+  });
 
   $("#change").click(function() {
           $("p").css({"color":"green"})
@@ -13,8 +13,10 @@ $(document).ready(function() {
 
   $("div").click(function(){
           $(this).hide();
-});
+  });
 
   $("#hide").click(function(){
           $("img".toggle();
-            });
+  });
+
+});
