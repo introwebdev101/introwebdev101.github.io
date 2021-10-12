@@ -13,3 +13,4 @@ $("#rounded").click(function(){
   $("#hide").click(function(){
     $("img").toggle();
 });
+});
