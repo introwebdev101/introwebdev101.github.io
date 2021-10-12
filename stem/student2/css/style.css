@@ -6,11 +6,17 @@ div, img {
 }
 
 #red {
-  background: white;
+  background: red;
 }
 
 #green {
-  background: white;
+  background: green;
 }
 
+@keyframes recolor {to
+  {background: blue;}
+} div
+{
+  animation: recolor 5s infinite alternate;
+}
 
