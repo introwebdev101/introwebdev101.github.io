@@ -4,10 +4,10 @@ div,img{
 display:inline-block;
   margin:1em;
 }
-#turquoise{
+#Turquoise{
   background:turquoise;
 }
-#green{
+#Green{
   background:green ;
 }
 @keyframes recolor {to
