@@ -12,6 +12,11 @@ div, img {
   display: inline-block;
   margin:1em;
 }
+
+#pic {
+  display: hidden;
+}
+
 #blue {
   background: blue;
 }
