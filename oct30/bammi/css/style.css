@@ -16,3 +16,11 @@ div, img {
 {
   animation: recolor 5s infinite alternate;
 }
+body {
+  background-image: url("https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: right top;
+  background-attachment: fixed;
+}
+    
