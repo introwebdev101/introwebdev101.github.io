@@ -12,8 +12,8 @@ div, img {
 }
 @keyframes recolor { to
   {background: blue;}
-  }div
+  } div
   {
-    Annimation: recolor 5s infinite alternate;
+    animation: recolor 5s infinite alternate;
   }
   
