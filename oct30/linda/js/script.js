@@ -8,11 +8,11 @@ $("#rounded").click(function(){
   });
   
   $("#change").click(function(){
-    $("p").css({color":"green"});
+    $("p").css({'color":"green"});
                });
     
-    $("#hide).click(function()}
-      $("img").toggle()'
+    $("#hide).click(function(){
+      $("img").toggle();
   });
   
   $("div").click(function(){
