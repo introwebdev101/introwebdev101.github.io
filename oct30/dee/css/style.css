@@ -14,7 +14,7 @@ div, img{
 }
 
 #pic {
-  display: hidden;
+  display: none;
 }
 #blue{
   background:#6699ff;
