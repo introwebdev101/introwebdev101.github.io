@@ -1,1 +1,18 @@
-
+div, img {
+  height:12em;
+  width: 12em;
+  display: inline-block;
+  margin: 1em;
+}
+#Green {
+  background: Green;
+}
+#Blue {
+  background: Blue;
+}
+@keyframes recolor { to
+  {background: Grey;}
+} div
+{
+  animation: recolor 5s infinite alternate;
+}
