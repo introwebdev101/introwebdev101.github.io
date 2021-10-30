@@ -4,14 +4,13 @@ $("#rounded').click(function(){
 });
  
 $("p").click(function(){
-  alert(
-"A paragraph was clicked.");
+  alert("A paragraph was clicked.");
     
 $("#change").click(function(){
     $("p").css({"color":"green"});
   });
   
-$("#hide")click.(function(){
+$("#hide").click(function(){
   $("img").toggle();
 });
   
