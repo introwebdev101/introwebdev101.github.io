@@ -20,4 +20,5 @@ alert("A paragraph was clicked.");
   });
   
   $("#pic").fadeIn("5000ms");
+  
 });
