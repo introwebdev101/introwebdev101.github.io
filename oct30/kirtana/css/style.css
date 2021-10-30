@@ -15,6 +15,10 @@ div,img {
   margin:1em;
 }
 
+#pic{
+  display:hidden;
+}
+
 #voilet {
   background:violet;
 }
