@@ -21,7 +21,7 @@ div,img {
 }
 
 @keyframes recolor { to 
-  {background:blue;}
+  {background:green;}
 }div
 {
   animation:recolor 5s infinite alternate;
