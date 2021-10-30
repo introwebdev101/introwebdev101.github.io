@@ -5,13 +5,13 @@ div, img {
   margin: 1em;
 }
 #Green {
-  background: Green;
+  background: green;
 }
 #Blue {
-  background: Blue;
+  background: blue;
 }
 @keyframes recolor { to
-  {background: Grey;}
+  {background: grey;}
 } div
 {
   animation: recolor 5s infinite alternate;
