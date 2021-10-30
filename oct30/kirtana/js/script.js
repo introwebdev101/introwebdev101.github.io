@@ -8,7 +8,7 @@ $(document).ready(function() {
   });
   
   $("#change").click(function(){
-    $("p").css({"color":"orange"});
+    $("p").css({"color":"green"});
   });
   
 $("#hide").click(function(){
