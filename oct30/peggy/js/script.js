@@ -19,5 +19,5 @@ alert("A paragraph was clicked.");
   $(this).hide();
   });
   
-  $("#pic").fadeIn("slow");
+  $("#pic").fadeIn("5000ms");
 });
