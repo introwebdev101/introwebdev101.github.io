@@ -18,4 +18,6 @@ alert("A paragraph was clicked.");
   $("div").click(function(){
   $(this).hide();
   });
+  
+  $("#pic").fadeIn("slow");
 });
