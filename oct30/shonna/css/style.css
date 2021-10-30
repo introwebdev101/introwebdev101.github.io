@@ -13,6 +13,11 @@ div, img {
   margin: 1em;
 }
 
+#pic {
+  display: none;
+}
+
+
 #gray {
   background: gray;
 }
