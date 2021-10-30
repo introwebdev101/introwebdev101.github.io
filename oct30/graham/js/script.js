@@ -5,6 +5,7 @@ $("#rounded").click(function(){
  
 $("p").click(function(){
   alert("A paragraph was clicked.");
+});
     
 $("#change").click(function(){
     $("p").css({"color":"green"});
