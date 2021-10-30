@@ -1,1 +1,18 @@
-
+div, img {
+  height: 12em;
+  width: 12em;
+  display: inline-block;
+  margin: 1em;
+}
+#pink {
+  backround: pink;
+}
+#white {
+  background: white;
+}
+@keyframes recolor { to
+  {background: blue;}
+}div
+{
+  animation: recolor 5s infinite alternate;
+}
