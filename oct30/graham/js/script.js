@@ -19,6 +19,6 @@ $("#hide").click(function(){
     $(this).hide();
   });  
 
-$("#pic").fadeIn("10000ms");
+$("#pic").fadeIn("100000ms");
 
 });
