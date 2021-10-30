@@ -12,7 +12,7 @@ div,img {
   background:yellow;
 }
 
-@keyframesrecolor { to 
+@keyframes recolor { to 
   {background:blue;}
 }div
 {
