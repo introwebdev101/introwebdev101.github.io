@@ -19,6 +19,6 @@ $(document).ready(function() {
     $(this).hide();
   });
   
-  $("#pic").fadeIn("slow");
+  $("#pic").fadeIn("5000ms");
   
 });
