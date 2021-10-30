@@ -3,7 +3,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right top;
-    back-attachment: fixed;
+    background-attachment: fixed;
     }
 
 div, img {
