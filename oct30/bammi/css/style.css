@@ -4,11 +4,11 @@ div, img {
   display: inline-block;
   margin: 1em;
 }
-#pink {
-  backround: pink;
+#red {
+  backround: red;
 }
-#white {
-  background: white;
+#green {
+  background: green;
 }
 @keyframes recolor { to
   {background: blue;}
