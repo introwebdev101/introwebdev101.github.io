@@ -19,4 +19,6 @@ $("#rounded").click(function(){
     $(this).hide();
   });
   
+  $("#pic").fadeIn("slow");
+  
 });
