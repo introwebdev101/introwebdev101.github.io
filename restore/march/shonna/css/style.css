@@ -16,9 +16,13 @@ img {
   visibility: hidden;
   margin: 1em;
  }
- 
+
+ @keyframes recolor {
+    {background: pink;}
+ }
+
  button {
-  border-radius: 2px;
+  border-radius: 10px;
   animation: recolor 5s infinite alternate;
   }
   
@@ -32,8 +36,6 @@ img {
   color: white;
  }
  
- @keyframes recolor {
-    {background: pink;}
- }
+
  
   
