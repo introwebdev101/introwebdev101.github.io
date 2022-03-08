@@ -1,0 +1,31 @@
+div {
+  display: inline-block;
+  }
+  
+img {
+  height: 15em; 
+  width: 15em; 
+  visibility: hidden;
+  margin: 1em;
+ }
+ 
+ button {
+  border-radius: 2px;
+  animation: recolor 5s infinite alternate;
+  }
+  
+ #btn1 {
+  background: #3d33ff;
+  color: #fff;
+ }
+ 
+ #btn2 {
+  background: red;
+  color: white;
+ }
+ 
+ @keyframes recolor {
+    {background: pink;}
+ }
+ 
+  
