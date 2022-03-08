@@ -18,6 +18,7 @@ img {
  }
 
  @keyframes recolor {
+   to
     {background: pink;}
  }
 
