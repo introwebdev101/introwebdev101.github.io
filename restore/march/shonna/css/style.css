@@ -14,7 +14,7 @@ div {
 img {
   height: 15em; 
   width: 15em; 
-  visibility: hidden;
+  display: none;
   margin: 1em;
  }
 
