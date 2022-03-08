@@ -9,11 +9,11 @@ $(document).ready(function(){
     alert("You clicked somewhere on the page!");
   });
   
-  $("btn1").click(function(){
+  $("#btn1").click(function(){
     $("img").css({"border-radius":"0px"});
   });
   
-  $("btn2").click(function(){
+  $("#btn2").click(function(){
     $("img").toggle();
   });
   
