@@ -1,6 +1,5 @@
 $(document).ready(function(){
-  $("img").fadeIn();
-  
+
   $("img").click(function(){
     $("img").css({"border-radius":"10em"});
   });
