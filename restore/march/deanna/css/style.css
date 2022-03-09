@@ -1,1 +1,38 @@
+body {
+  background: url('https://images.pexels.com/photos/709541/pexels-photo-709541.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
 
+div {
+  display: inline-block; 
+  margin: 0; 
+}
+
+img {
+  height:15em;
+  width: 15em;
+  margin: 1em;
+}
+
+@keyframes recolor { 
+  to 
+  {background: pink;}
+}
+
+button {
+  background: #B7F1FD;
+  color: #FDB7E5;
+  border-radius: 10px;
+  animation: recolor 5s infinite alternate;
+}
+#btn1 {
+  background: #3d33ff;
+  color: #fff;
+}
+#btn {
+  background: red;
+  color: white; 
+}
