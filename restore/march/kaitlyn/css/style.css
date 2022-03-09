@@ -17,13 +17,6 @@ img {
     margin: 1em;
 }
 
-button {
-    background: #3d33ff;
-    color: #ffffff;
-    border-radius: 2px;
-    margin: 0;
-}
-
 @keyframes recolor {
     to
     {background: pink;}
@@ -31,7 +24,9 @@ button {
 
 button {
     border-radius: 10px;
+    margin: 0;
     animation: recolor 5s infinite alternate;
+
 }
 
 #btn1 {
