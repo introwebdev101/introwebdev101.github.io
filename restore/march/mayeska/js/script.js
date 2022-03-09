@@ -4,7 +4,6 @@ $(document).ready(function() {
     $("img").toggle();
   });
   
-  $(document).ready(function() {
     $("img").click(function(){
       $("img").css({"border-radius":"10em"});
     });
