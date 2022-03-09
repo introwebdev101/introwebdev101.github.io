@@ -5,7 +5,7 @@ $(document).ready(function() {
   });
   
     $("img").click(function(){
-      $("img").css("border-radius":"10em");
+      $(this).css("border-radius":"10em");
     });
   
 });
