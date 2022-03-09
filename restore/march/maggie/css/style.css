@@ -1,1 +1,34 @@
+body {
+ background: url('https://img1.wsimg.com/isteam/ip/98efa574-8a12-4992-96b6-b449e34a5660/8D50406D-2279-420C-92B8-B91134F42EB4.png');
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position:right top;
+  background-attachment: fixed;
+}
 
+div{
+  display: inline-block;
+  margin:0;
+}
+
+img{
+  height:15em;
+  width: 15em;
+  margin: 1em;
+}
+keyframes recolor{
+  to
+  {background:#635272;}
+button{
+    border-radius: 2px;
+  margin: 0;
+  animation: recolor 5s infinite alternate;
+}
+#btn1{
+  background: #526372;
+  color:#fff;
+  }
+  #btn2 {
+    background: #AED6F1;
+    color: white;
+  }
