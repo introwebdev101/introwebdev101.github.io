@@ -1,1 +1,46 @@
+body {
+  background: url("https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:right top;
+  background-attachment:fixed;
+}
+
+div { 
+  display: inline-block;
+  margin: 0;
+}
+
+img {
+  height: 20em;
+  heignt: 20em;
+  margin: 1em;
+}
+
+@keyframes recolor {
+  to 
+  {background: red;}
+}
+
+button {
+  border-radius: 10px;
+  margin: 0;    
+}
+
+#btn1 {
+  background: gold;
+  color: green;
+}
+
+#btn2 {
+  background: green;
+  color: gold;
+}
+
+
+
+
+
+
+
 
