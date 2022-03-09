@@ -1,11 +1,11 @@
 $(document).ready(function() {
+
   
   $("button").click(function(){
     $("img").toggle();
   });
-  
-    $("img").click(function(){
-      $(this).css("border-radius":"10em");
-    });
-  
+   $("img").click(function(){
+      $("img").css("border-radius","100px");
+    });  
+   
 });
