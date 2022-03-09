@@ -5,3 +5,40 @@ body {
     background-position: right top;
     background-attachement: fixed;
 }
+
+div {
+    display: inline-block;
+    margin: 0;
+}
+
+img {
+    height:15em;
+    width: 15em;
+    margin: 1em;
+}
+
+button {
+    background: #3d33ff;
+    color: #ffffff;
+    border-radius: 2px;
+    margin: 0;
+}
+
+@keyframes recolor {
+    to
+    {background: pink;}
+}
+
+button {
+    border-radius: 10px;
+    animation: recolor 5s infinite alternate;
+}
+
+#btn1 {
+    background: #3d33ff;
+    color: #fff;
+}
+#btn2 {
+    background: red;
+    color: white;
+}
