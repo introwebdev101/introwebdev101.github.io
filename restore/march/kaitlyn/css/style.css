@@ -1,6 +1,7 @@
 body {
     background: url('https://images.pexels.com/photos/8685551/pexels-photo-8685551.jpeg');
     background-size: cover;
+    max-width: 100%;
     background-repeat: no-repeat;
     background-position: right top;
     background-attachement: fixed;
