@@ -1,1 +1,33 @@
-
+body {
+  background:url(https://images.pexels.com/photos/9754/mountains-clouds-forest-fog.jpg?);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+div {
+  display: inline-block;
+  margin: 0;
+}
+img {
+  height:15em;
+  width: 15em;
+  margin: 1em
+}
+@keyframes recolor {
+  to
+  {background: #CDD9DF;}
+}
+button {
+  border-radius: 2px;
+  margin: 0;
+  animation: recolor 5s infinite alternate;
+}
+#btn1 {
+  background: #6F8D9D;
+  color: #fff;
+}
+#btn2 {
+  background: #69818E;
+  color: #fff;
+}
